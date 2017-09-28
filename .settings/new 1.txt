@@ -1,0 +1,14 @@
+{
+	"identifier": "1234567",
+	"jgbh": "Q48",
+	"jijia": "13-14U",
+	"alertType": "OS",
+	"devIP": "192.168.90.21",
+	"jijia": "13-14U",
+	"alertDetail": "",
+	"alertClass": "6",
+	"alertTime": "2017-03-23 10:19:20",
+	"devName": "手机银行-WEB1",
+	"devType": "主机",
+	"isNew": 1
+}
